@@ -38,15 +38,27 @@ document.addEventListener('DOMContentLoaded', () => {
         });
     });
 
-    // Form Submission Handling
+    // Form Submission Handling (Netlify AJAX)
     const contactForm = document.getElementById('contactForm');
     if (contactForm) {
         contactForm.addEventListener('submit', (e) => {
             e.preventDefault();
-            // Here you would typically send the data to a server
-            // For now, we'll just show a success message
-            alert('Hvala na poruci! Kontaktiraćemo vas uskoro.');
-            contactForm.reset();
+            
+            const formData = new FormData(contactForm);
+            
+            fetch('/', {
+                method: 'POST',
+                headers: { "Content-Type": "application/x-www-form-urlencoded" },
+                body: new URLSearchParams(formData).toString()
+            })
+            .then(() => {
+                alert('Hvala na poruci! Kontaktiraćemo vas uskoro.');
+                contactForm.reset();
+            })
+            .catch((error) => {
+                alert('Došlo je do greške. Molimo vas pokušajte ponovo ili nas kontaktirajte direktno na email.');
+                console.error('Form error:', error);
+            });
         });
     }
 
