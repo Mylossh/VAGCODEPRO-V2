@@ -1,0 +1,170 @@
+{
+  "business": {
+    "name": "VAGCODEPRO",
+    "brand_variants": [
+      "VAGCODE",
+      "VAGCODEPRO",
+      "vagcodepro.rs",
+      "VAGCODE RS"
+    ],
+    "short_tagline": "Coding, retrofits and diagnostics for VAG group vehicles.",
+    "description": "VAGCODEPRO is a small, specialized automotive service focused on coding, retrofits and diagnostics for vehicles from the VAG group (Volkswagen, Audi, Škoda, SEAT). The business is built as an independent garage-style service with a professional but down-to-earth, authentic approach. It emphasizes correct, safe and clean work rather than flashy tuning for social media.",
+    "services": {
+      "main_services": [
+        "ECU coding and feature activation for VAG group vehicles",
+        "Retrofit of OEM features (e.g. reverse camera, auto hold, comfort functions)",
+        "Diagnostics and fault-code reading/reset for VAG models",
+        "Parameter adjustments and customization via diagnostic tools (where legally and technically safe)"
+      ],
+      "planned_services": [
+        "More advanced coding and feature enablement using ODIS",
+        "Deeper integration with VCDS and OBDeleven for detailed diagnostics and logging",
+        "Broader range of VAG retrofits as experience and equipment grow"
+      ],
+      "example_retrofits": [
+        "Reverse camera retrofit on Audi A3 8V (2020)",
+        "Auto hold function activation on Audi A3 8V (2020)"
+      ]
+    },
+    "target_vehicles": [
+      "Volkswagen",
+      "Audi",
+      "Škoda",
+      "SEAT",
+      "Other VAG group brands where supported by tools"
+    ],
+    "founder": {
+      "name": "Milos",
+      "birth_year": 2003,
+      "professional_background": "More than 5 years of experience in electronics-related work and over 2.5 years as a hardware development engineer. As of June 2025, Milos is the team leader for hardware development at MikroElektronika.",
+      "relevance_to_business": "Strong electronics and hardware background provides a deep understanding of automotive electronics, ECUs and embedded systems, which supports safe and reliable coding and retrofit work.",
+      "current_daily_job": "Hardware Development Team Lead at MikroElektronika"
+    },
+    "location": {
+      "country": "Serbia",
+      "timezone": "Europe/Belgrade",
+      "workspace_description": "Private garage being prepared as a small but clean and organized workshop for VAG coding and retrofits."
+    },
+    "garage_status": {
+      "current_state": "In preparation",
+      "planned_improvements": [
+        "Electrical installation in the garage",
+        "Drywall (gypsum boards) and wall finishing",
+        "Floor finishing suitable for workshop use"
+      ],
+      "goal": "Finish the interior of the garage (power, walls, floor) before actively pushing Instagram content and officially launching the service profile."
+    },
+    "demo_vehicle": {
+      "model": "Audi A3 8V",
+      "year": 2020,
+      "usage": "Main demo and test vehicle for coding, retrofits and content creation.",
+      "example_content": [
+        "Reverse camera retrofit on Audi A3 8V (before/after, wiring, coding)",
+        "Auto hold activation and explanation of how it works",
+        "Showcasing diagnostic sessions and feature checks"
+      ]
+    },
+    "equipment": {
+      "diagnostic_software_and_tools": {
+        "current_focus": [
+          "ODIS (planned)",
+          "VCDS (planned)",
+          "OBDeleven (planned and partly explored)"
+        ],
+        "goal": "Build a stable, legal and reliable toolchain for VAG diagnostics, coding and retrofits."
+      },
+      "computer_setup": {
+        "current": "ThinkPad T14s (Windows-based, chosen for compatibility with VAG diagnostic tools).",
+        "previous": "MacBook M2 (sold or being replaced because of poor compatibility with diagnostic software)."
+      }
+    },
+    "online_presence": {
+      "website": {
+        "primary_domain": "vagcodepro.rs",
+        "status": "New website in planning/build phase.",
+        "planned_purpose": [
+          "Present services (coding, retrofits, diagnostics) in a clear, technical but understandable way.",
+          "Showcase portfolio: before/after retrofits, case studies, customer stories.",
+          "Provide contact information and booking options.",
+          "Educate customers on what VAG coding and retrofits are, what is safe, and what is not."
+        ]
+      },
+      "email": {
+        "current": "Gmail-based address (used informally).",
+        "planned": "contact@vagcode.rs (to be used once the business is more established and the need arises)."
+      },
+      "instagram": {
+        "handle": "VAGCODEPRO (current or planned dedicated profile)",
+        "goal": "Professional-looking profile that still feels like a real garage service, not a corporate brand.",
+        "content_type": [
+          "Short technical explanations of coding and retrofits.",
+          "Before/after posts of specific retrofits (e.g., reverse camera, auto hold, comfort functions).",
+          "Showcasing diagnostic sessions, coding screens and in-car results.",
+          "Educational posts explaining what each feature does and when it makes sense to retrofit it."
+        ],
+        "visual_style": [
+          "Photos and videos taken in the garage, around the car, laptop screens, diagnostic tools.",
+          "Clean, simple visuals without over-edited or flashy elements.",
+          "Focus on authenticity and clarity over aesthetics only."
+        ],
+        "text_style": {
+          "tone": "Professional and technically precise, but natural and human – like a serious garage that knows what it is doing.",
+          "constraints": [
+            "No emojis.",
+            "No stickers.",
+            "Avoid overly salesy or cringe language."
+          ],
+          "language": "Primarily Serbian for local audience, but flexible depending on post type.",
+          "vibe": "Authentic small garage, transparent, honest and focused on doing the job right."
+        }
+      }
+    },
+    "marketing": {
+      "car_advertisement": {
+        "status": "Finished",
+        "description": "VAGCODEPRO branding and website URL (vagcodepro.rs) placed as an advertisement on Milos’ own Audi A3 8V.",
+        "effect": "Already attracting attention on the street and acting as a moving billboard for the business."
+      },
+      "content_strategy": {
+        "platform_focus": [
+          "Instagram (primary at the start)",
+          "Website portfolio and SEO (later)"
+        ],
+        "launch_timing": "Official IG launch planned roughly 1–2 months after the garage interior is finished and presentable.",
+        "principles": [
+          "Show real work on real cars.",
+          "Explain what was done, not just show the result.",
+          "Teach the audience while also promoting services."
+        ]
+      }
+    },
+    "business_stage": {
+      "status": "Early-stage / pre-launch with soft marketing.",
+      "short_term_goals": [
+        "Finish the garage interior and workspace setup.",
+        "Stabilize diagnostic tools and software stack.",
+        "Prepare Instagram profile with proper headline, description, and consistent visual style.",
+        "Create first few high-quality retrofit and coding case posts."
+      ],
+      "mid_term_goals": [
+        "Build a small but loyal local client base for VAG coding and retrofits.",
+        "Expand service list with more retrofits and advanced coding.",
+        "Use website and social media to position VAGCODEPRO as a go-to local expert for VAG electronic upgrades."
+      ]
+    },
+    "constraints_and_preferences": {
+      "identity": {
+        "public_face": "Brand-first (VAGCODEPRO), not influencer-style personal brand.",
+        "privacy": "Milos prefers not to make himself a public face in the same way he avoids showing his face in other technical videos/projects. Focus remains on the car and the work."
+      },
+      "communication_style": {
+        "do_not_use": [
+          "Emojis",
+          "Stickers",
+          "Overly dramatic or clickbait language"
+        ],
+        "preferred_style": "Clear, technical, confident, calm and honest."
+      }
+    }
+  }
+}
